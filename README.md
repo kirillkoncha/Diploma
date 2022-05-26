@@ -1,4 +1,4 @@
-# Diploma
+# METAPHOR AND BLEACHING: EXPERIMENTAL STUDY OF SEMANTIC SHIFTS OF DIFFERENT DEGREE OF CONNECTION WITH THE LITERAL SENSE
 The repository for "Metaphor and Bleaching: Experimental Study of Semantic Shifts of Different Degree of Connection with the Literal Sense" diploma data and source code.
 
 Files:
